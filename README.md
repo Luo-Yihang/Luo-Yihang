@@ -3,4 +3,4 @@
 - 💞️ I’m looking to you
 - 📫 How to reach me: Luo_Yihang@outlook.com
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luo-Yihang&show_icons=true&theme=radicals)](https://github.com/Luo-Yihang)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luo-Yihang&show_icons=true&theme=dark)](https://github.com/Luo-Yihang)
