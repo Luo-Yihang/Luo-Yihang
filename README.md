@@ -6,7 +6,8 @@
 - 💞️ I’m looking to you
 - 📫 How to reach me: Luo_Yihang@outlook.com
 
-**More Info:**  
+**More Info:**
+<br>
 <a href="https://github.com/Luo-Yihang">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Luo-Yihang&show_icons=true&theme=dark" />
 </a>
