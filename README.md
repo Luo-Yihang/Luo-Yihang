@@ -4,3 +4,4 @@
 - 📫 How to reach me: Luo_Yihang@outlook.com
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Luo-Yihang&show_icons=true&theme=dark)](https://github.com/Luo-Yihang)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luo-Yihang&layout=compact)](https://github.com/Luo-Yihang)
