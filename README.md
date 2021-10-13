@@ -1,4 +1,4 @@
-# Hi, there!  I’m [Luo-Yihang](https://www.darklyh.com)
+# Hi, there!  I’m [Luo-Yihang](https://darklyh.com)
 
 **About me**
 - 👋 Hi, I’m @Luo-Yihang
