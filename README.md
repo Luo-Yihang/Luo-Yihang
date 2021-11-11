@@ -14,3 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luo-Yihang&layout=compact&theme=dark" />
 </a>
 
+| <a href="https://github.com/Luo-Yihang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Luo-Yihang&show_icons=true&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github.com/Luo-Yihang"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luo-Yihang&layout=compact&theme=dark" /></a> |
