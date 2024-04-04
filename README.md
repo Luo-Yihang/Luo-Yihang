@@ -3,7 +3,6 @@
 **About me**
 - 👋 Hi, I’m @Luo-Yihang
 - 🌱 I’m currently in Singapore
-- 💞️ I’m looking to you
 - 📫 How to reach me: Luo_Yihang@outlook.com
 
 <!-- <div style="display: flex; flex-direction: row; justify-content: space-between">
