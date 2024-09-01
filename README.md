@@ -1,9 +1,9 @@
-# Hi, there!  I’m Luo-Yihang
+  # Hi, there!  I’m Luo-Yihang
 
 **About me**
 - 👋 Hi, I’m @Luo-Yihang
 - 🌱 I’m currently in Singapore
-- 📫 How to reach me: Luo_Yihang@outlook.com
+- 📫 How to reach me: luo_yihang@outlook.com
 
 <!-- <div style="display: flex; flex-direction: row; justify-content: space-between">
 <a href="https://github.com/Luo-Yihang">
